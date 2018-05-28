@@ -1,0 +1,6 @@
+name: LagControl
+version: 1.0
+main: AT.MSev.LagControl.LagControl
+commands:
+  LCMap:
+    description: Shows LCMap
